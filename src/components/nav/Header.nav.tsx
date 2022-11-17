@@ -1,4 +1,3 @@
-import Logo from '../../Icons/Logo';
 import NavOption from './NavOption';
 import navOptions from './navOptions';
 import { useEffect, useState } from 'react';
@@ -41,7 +40,6 @@ const Header = () => {
                 to="intro"
             >
                 Chelsey Gowac
-                {/* <Logo className="cursor-pointer" /> */}
             </Link>
 
             <ol className="hidden space-x-8 md:flex">

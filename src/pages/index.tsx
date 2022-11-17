@@ -1,6 +1,5 @@
 import Layout from '@/Layout/Main.Layout';
 import About from '@/components/About';
-import Blog from '@/components/Blog';
 import Contact from '@/components/Contact';
 import Intro from '@/components/Intro';
 import Projects from '@/components/Projects';
@@ -15,7 +14,7 @@ interface Props {
     Posts: [PostType];
 }
 
-const Home: FC<Props> = ({ Posts }) => {
+const Home: FC<Props> = () => {
     return (
         <Layout>
             <Intro />
@@ -23,7 +22,6 @@ const Home: FC<Props> = ({ Posts }) => {
             <Testimonials />
             <Projects />
             <Skills />
-            {/* <Blog Posts={Posts} /> */}
             <Contact />
         </Layout>
     );
