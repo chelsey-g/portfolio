@@ -1,9 +1,9 @@
 {
-    "name": "Avneesh Agarwal",
-    "image": "/me.png",
-    "profession": "FullStack web developer",
-    "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
-    "about": "I am a full-stack web developer who loves to design and develop beautiful websites. I have been coding for over a year and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing.",
+    "name": "Chelsey Gowac",
+    "image": "/me.jpg",
+    "profession": "Front End Web Developer",
+    "intro": "I started my Front End Engineer journey 11 months ago, learning HTML, CSS, Javascript, and React. I love the challenge, and I look forward to bringing my skills to a new team, and learning more about the web.",
+    "about": "📌 I started my Front End Engineer journey 11 months ago learning HTML, CSS, JavaScript, and React. I have completed a handful of online certificates from Codecademy and TreeHouse that have expanded my knowledge using programs such as Figma, Storybook, and Insomnia. I am obsessed with Chrome DevTools. 📌 Additionally, prior to starting my tech adventure, I worked in retail store management for about 10 years. My goal was to provide the best experience possible to each and every customer. I strived to exceed expectations and improve the customer experience while continuing to lead a team and complete projects with proficient time management. 📌 My passion is providing excellent customer service and helping clients excel in their fields. I am a quick learner with a fun, outgoing personality. In addition, I transcend in the ability to work under pressure and handle stressful situations very well.",
     "website": "https://www.avneesh.tech",
     "skills": [
         {
@@ -34,89 +34,56 @@
     ],
     "projects": [
         {
-            "name": "Irish Players Club",
-            "image": "https://res.cloudinary.com/didkcszrq/image/upload/v1646014704/Frame_1_cglafw.png",
-            "about": "A NFT collection of 5,555 unique leprechaun NFTs created by former Domers in an effort to support currently rostered Notre Dame football players.",
-            "tech": ["Next.js", "Solidity", "Node.js", "Chakra UI", "Firebase"],
-            "links": {
-                "Live": "https://www.irishplayersclub.com/"
-            },
-            "role": "Fullstack web3 developer"
-        },
-        {
-            "name": "React and Next.js Snippets",
-            "image": "/projects/react-next.js-snips.png",
-            "about": "Packed with a lot of React and Next.js snippets, along with typescript! It is very easy to use, you can simply install it and type in the prefix for the snippets.",
-            "tech": ["VScode", "React", "Next.js"],
-            "links": {
-                "GitHub": "https://github.com/avneesh0612/react-nextjs-snippets",
-                "Live": "https://www.producthunt.com/posts/react-and-next-js-snippets"
-            },
-            "role": "Lead developer"
-        },
-        {
-            "name": "Faucetli",
-            "image": "/projects/faucetli.png",
+            "name": "Photoshine",
+            "image": "https://www.photoshine.app/images/ss.png",
             "about": "🦄 Faucetli is a minimal command-line tool to receive testnet tokens right away from your terminal.",
-            "tech": ["Node.js", "Web3.js", "Typescript"],
+            "tech": ["Next.js", "AWS Amplify", "GraphQL", "JavaScript", "Tailwind", "CSS", "HTML"],
             "links": {
                 "GitHub": "https://github.com/Kira272921/faucetli",
                 "Live": "https://www.producthunt.com/posts/faucetli"
             },
-            "role": "Co-builder"
+            "role": "Frontend Developer"
+        },
+        {
+            "name": "Spotify Clone",
+            "image": "/spotify.png",
+            "about": "Created a Spotify clone using Create-React-App and Spotify API.",
+            "tech": ["create-react-app", "JavaScript", "CSS", "HTML"],
+            "links": {
+                "Live": "https://www.irishplayersclub.com/"
+            },
+            "role": "Frontend Developer"
         }
     ],
     "testimonials": [
         {
-            "value": "I have launched more than 2 products on Product Hunt with Avneesh and I have enjoyed the entire journey from getting the project idea till launching it on Product Hunt",
-            "name": "Kira",
-            "relation": "Co-worker",
-            "pfp": "https://avatars.githubusercontent.com/u/90365542?v=4",
-            "link": "https://github.com/Kira272921/"
-        },
-        {
-            "value": "I've worked on numerous projects with Avneesh and the flow has always been perfect. Avneesh is a great leader and we also listen to spotify together!",
-            "name": "Anurag",
-            "relation": "Co-builder",
-            "pfp": "https://avatars.githubusercontent.com/u/77309809?v=4",
-            "link": "https://anurag.tech"
+            "value": "I hired Chelsey for our front-end engineer position for her experience with React, JavaScript, HTML, and CSS. With her technical expertise and skillset, we were able to bring a product to market within just a few months. Chelsey can work quickly and effectively on her own in a fast-paced environment, with little oversight, all while producing quality code. I would be happy to work with her again on any project.",
+            "name": "Jeff Loiselle",
+            "relation": "Supervisor",
+            "pfp": "https://www.gravatar.com/avatar/99ac3540195101d902351e5a045003ab",
+            "link": "https://github.com/phishy/"
         }
     ],
     "links": [
         {
             "name": "GitHub",
             "icon": "github.svg",
-            "link": "https://github.com/avneesh0612"
+            "link": "https://github.com/chelsey-g"
         },
         {
             "name": "Twitter",
             "icon": "twitter.svg",
-            "link": "https://twitter.com/avneesh0612"
-        },
-        {
-            "name": "Hashnode",
-            "icon": "hashnode.svg",
-            "link": "https://blog.avneesh.tech"
-        },
-        {
-            "name": "Showwcase",
-            "icon": "showwcase.svg",
-            "link": "https://www.showwcase.com/avneesh"
-        },
-        {
-            "name": "Instagram",
-            "icon": "instagram.svg",
-            "link": "https://instagram.com/avneesh.codes"
+            "link": "https://twitter.com/chelseygowac"
         },
         {
             "name": "Mail me",
             "icon": "mail.svg",
-            "link": "mailto:avneeshagarwal0612@gmail.com"
+            "link": "mailto:chelgowac@gmail.com"
         },
         {
             "name": "LinkedIn",
             "icon": "linkedin.svg",
-            "link": "https://www.linkedin.com/in/avneesh0612"
+            "link": "https://www.linkedin.com/in/chelsey-g"
         }
     ]
 }

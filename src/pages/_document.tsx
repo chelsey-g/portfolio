@@ -17,7 +17,7 @@ const Document = () => {
                     property="og:image"
                 />
                 <meta
-                    content="Avneesh, Agarwal, Avneesh Agarwal, web dev, blogger, content creator"
+                    content="Chelsey, Gowac, Chelsey Gowac, web dev, blogger, content creator"
                     name="keywords"
                 />
                 <link href="/manifest.json" rel="manifest" />

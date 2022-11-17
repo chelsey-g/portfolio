@@ -29,10 +29,10 @@ function MyApp({ Component, pageProps }: AppProps) {
                         },
                     ],
                     profile: {
-                        firstName: 'Avneesh',
-                        gender: 'Male',
-                        lastName: 'Agarwal',
-                        username: 'avneesh0612',
+                        firstName: 'Chelsey',
+                        gender: 'Female',
+                        lastName: 'Gowac',
+                        username: 'chelsey-g',
                     },
                 }}
                 title={data.name}

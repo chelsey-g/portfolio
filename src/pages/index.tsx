@@ -23,7 +23,7 @@ const Home: FC<Props> = ({ Posts }) => {
             <Testimonials />
             <Projects />
             <Skills />
-            <Blog Posts={Posts} />
+            {/* <Blog Posts={Posts} /> */}
             <Contact />
         </Layout>
     );

@@ -7,7 +7,7 @@
 
 @layer components {
     body {
-        @apply w-screen overflow-x-hidden bg-bgblue font-sora text-text;
+        @apply w-screen overflow-x-hidden bg-slate-900 font-sora text-text;
     }
 }
 
@@ -23,7 +23,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 body::-webkit-scrollbar-track {
-    background: #222e50 !important;
+    background: #111111 !important;
 }
 
 .hideScrollBar::-webkit-scrollbar-thumb {

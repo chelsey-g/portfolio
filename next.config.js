@@ -4,6 +4,8 @@ module.exports = {
             'res.cloudinary.com',
             'cdn.hashnode.com',
             'avatars.githubusercontent.com',
+            'www.photoshine.app',
+            'www.gravatar.com',
         ],
     },
 };
