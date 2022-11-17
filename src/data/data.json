@@ -3,7 +3,7 @@
     "image": "/me.jpg",
     "profession": "Front End Web Developer",
     "intro": "I started my Front End Engineer journey 11 months ago, learning HTML, CSS, Javascript, and React. I love the challenge, and I look forward to bringing my skills to a new team, and learning more about the web.",
-    "about": "📌 I started my Front End Engineer journey 11 months ago learning HTML, CSS, JavaScript, and React. I have completed a handful of online certificates from Codecademy and TreeHouse that have expanded my knowledge using programs such as Figma, Storybook, and Insomnia. I am obsessed with Chrome DevTools. 📌 Additionally, prior to starting my tech adventure, I worked in retail store management for about 10 years. My goal was to provide the best experience possible to each and every customer. I strived to exceed expectations and improve the customer experience while continuing to lead a team and complete projects with proficient time management. 📌 My passion is providing excellent customer service and helping clients excel in their fields. I am a quick learner with a fun, outgoing personality. In addition, I transcend in the ability to work under pressure and handle stressful situations very well.",
+    "about": "📌 I started my Front End Engineer journey 11 months ago learning HTML, CSS, JavaScript, and React. I have completed a handful of online certificates from Codecademy and TreeHouse that have expanded my knowledge using programs such as Figma, Storybook, and Insomnia. I am obsessed with Chrome DevTools.<br><br> 📌 Additionally, prior to starting my tech adventure, I worked in retail store management for about 10 years. My goal was to provide the best experience possible to each and every customer. I strived to exceed expectations and improve the customer experience while continuing to lead a team and complete projects with proficient time management.<br><br> 📌 My passion is providing excellent customer service and helping clients excel in their fields. I am a quick learner with a fun, outgoing personality. In addition, I transcend in the ability to work under pressure and handle stressful situations very well.",
     "website": "https://www.avneesh.tech",
     "skills": [
         {
@@ -15,11 +15,6 @@
             "src": "/logos/nextjs.svg",
             "name": "Next",
             "link": "https://nextjs.org/"
-        },
-        {
-            "src": "/logos/typescript.svg",
-            "name": "Typescript",
-            "link": "https://www.typescriptlang.org/"
         },
         {
             "src": "/logos/thirdweb.svg",
@@ -37,10 +32,18 @@
             "name": "Photoshine",
             "image": "https://www.photoshine.app/images/ss.png",
             "about": "🦄 Faucetli is a minimal command-line tool to receive testnet tokens right away from your terminal.",
-            "tech": ["Next.js", "AWS Amplify", "GraphQL", "JavaScript", "Tailwind", "CSS", "HTML"],
+            "tech": [
+                "Next.js",
+                "AWS Amplify",
+                "GraphQL",
+                "JavaScript",
+                "Tailwind",
+                "CSS",
+                "HTML"
+            ],
             "links": {
-                "GitHub": "https://github.com/Kira272921/faucetli",
-                "Live": "https://www.producthunt.com/posts/faucetli"
+                "GitHub": "https://github.com/phishy/photoshine",
+                "Live": "https://www.photoshine.app"
             },
             "role": "Frontend Developer"
         },
@@ -50,7 +53,8 @@
             "about": "Created a Spotify clone using Create-React-App and Spotify API.",
             "tech": ["create-react-app", "JavaScript", "CSS", "HTML"],
             "links": {
-                "Live": "https://www.irishplayersclub.com/"
+                "GitHub": "https://github.com/chelsey-g/spotify-clone",
+                "Live": "https://github.com/chelsey-g/spotify-clone"
             },
             "role": "Frontend Developer"
         }

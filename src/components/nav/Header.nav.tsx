@@ -40,7 +40,8 @@ const Header = () => {
                 title="Chelsey"
                 to="intro"
             >
-                <Logo className="cursor-pointer" />
+                Chelsey Gowac
+                {/* <Logo className="cursor-pointer" /> */}
             </Link>
 
             <ol className="hidden space-x-8 md:flex">
