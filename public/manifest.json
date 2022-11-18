@@ -1,12 +1,12 @@
 {
     "theme_color": "#52DEE5",
-    "background_color": "#222E50",
+    "background_color": "#02040F",
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "name": "Avneesh Agarwal",
-    "short_name": "Avneesh",
-    "description": "Avneesh's portfolio",
+    "name": "Chelsey Gowac",
+    "short_name": "Chelsey",
+    "description": "Chelsey's portfolio",
     "icons": [
         {
             "src": "/icon-192x192.png",

@@ -7,7 +7,7 @@
 
 @layer components {
     body {
-        @apply w-screen overflow-x-hidden bg-slate-900 font-sora text-text;
+        @apply w-screen overflow-x-hidden bg-neutral-900 font-sora text-text;
     }
 }
 

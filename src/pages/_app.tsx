@@ -38,8 +38,8 @@ function MyApp({ Component, pageProps }: AppProps) {
                 title={data.name}
                 titleTemplate={data.name}
                 twitter={{
-                    handle: '@avneesh0612',
-                    site: '@avneesh0612',
+                    handle: '@chelseygowac',
+                    site: '@chelseygowac',
                     cardType: 'summary_large_image',
                 }}
             />

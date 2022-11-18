@@ -31,7 +31,7 @@
         {
             "name": "Photoshine",
             "image": "https://www.photoshine.app/images/ss.png",
-            "about": "🦄 Faucetli is a minimal command-line tool to receive testnet tokens right away from your terminal.",
+            "about": " We know your photos are important to you. Leave the intrusions behind and host your photos with our 100% Open Source software.",
             "tech": [
                 "Next.js",
                 "AWS Amplify",
