@@ -17,11 +17,6 @@
             "link": "https://nextjs.org/"
         },
         {
-            "src": "/logos/thirdweb.svg",
-            "name": "Thirdweb",
-            "link": "https://thirdweb.com"
-        },
-        {
             "src": "/logos/tailwind.svg",
             "name": "Tailwind",
             "link": "https://tailwindcss.com/"
