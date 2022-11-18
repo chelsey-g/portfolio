@@ -13,7 +13,7 @@ const Intro = () => {
             transition={{ duration: 0.5 }}
         >
             <p className="text-3xl text-neon font-fira">Hi, my name is</p>
-            <h1 className="text-5xl font-extrabold text-RazzmicBerry-600 md:text-8xl">
+            <h1 className="text-5xl font-extrabold text-pink-600 md:text-8xl">
                 {data.name}
             </h1>
             <h2 className="text-4xl text-slate-400 md:text-6xl">
