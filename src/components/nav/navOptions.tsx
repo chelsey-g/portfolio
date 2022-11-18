@@ -16,10 +16,6 @@ const navOptions = [
         href: 'skills',
     },
     {
-        name: 'Blog',
-        href: 'blog',
-    },
-    {
         name: 'Contact',
         href: 'contact',
     },
