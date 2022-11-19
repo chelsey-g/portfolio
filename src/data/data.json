@@ -26,7 +26,7 @@
         {
             "name": "Photoshine",
             "image": "https://www.photoshine.app/images/ss.png",
-            "about": " We know your photos are important to you. Leave the intrusions behind and host your photos with our 100% Open Source software.",
+            "about": "Created a user database for saving photos. Responsible for building entire front-end using React, HTML, CSS, Tailwind, and Amplify from Figma designs.",
             "tech": [
                 "Next.js",
                 "AWS Amplify",
