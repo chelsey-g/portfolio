@@ -39,7 +39,11 @@ const Header = () => {
                 title="Chelsey"
                 to="intro"
             >
-                Chelsey Gowac
+                <img
+                    src="/favicon-256.png"
+                    alt="Chelsey"
+                    className="w-10 h-10"
+                />
             </Link>
 
             <ol className="hidden space-x-8 md:flex">

@@ -5,7 +5,7 @@ const Document = () => {
     return (
         <Html lang="en">
             <Head>
-                <link href="/logo.svg" rel="icon" />
+                <link href="/logo.ico" rel="icon" />
                 <link
                     href={`${data.website}/rss.xml`}
                     rel="alternate"
