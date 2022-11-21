@@ -40,9 +40,9 @@ const Header = () => {
                 to="intro"
             >
                 <img
-                    src="/favicon-256.png"
                     alt="Chelsey"
                     className="w-10 h-10"
+                    src="/favicon-256.png"
                 />
             </Link>
 
