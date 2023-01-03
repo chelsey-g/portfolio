@@ -3,6 +3,8 @@ import data from '@/data/data.json';
 import Image from 'next/image';
 import React from 'react';
 
+const timeSince = new Date().getFullYear() - 2021;
+
 const About = () => {
     return (
         <div className="flex flex-col items-center justify-center" id="about">
@@ -11,9 +13,9 @@ const About = () => {
             <div className="flex flex-col items-center justify-center md:flex-row md:justify-start md:items-start">
                 <div className="mt-10 text-xl text-textDark md:w-1/2">
                     <p>
-                        📌 I started my Front End Engineer journey 11 months ago
-                        learning HTML, CSS, JavaScript, and React. I have
-                        completed a handful of online certificates from
+                        📌 I started my Front End Engineer journey {timeSince}{' '}
+                        years ago learning HTML, CSS, JavaScript, and React. I
+                        have completed a handful of online certificates from
                         Codecademy and TreeHouse that have expanded my knowledge
                         using programs such as Figma, Storybook, and Insomnia. I
                         am obsessed with Chrome DevTools.

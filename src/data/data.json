@@ -2,7 +2,7 @@
     "name": "Chelsey Gowac",
     "image": "/me.jpg",
     "profession": "Front End Web Developer",
-    "intro": "I started my Front End Engineer journey 11 months ago, learning HTML, CSS, Javascript, and React. I love the challenge, and I look forward to bringing my skills to a new team, and learning more about the web.",
+    "intro": "I started my Front End Engineer 2 years ago, learning HTML, CSS, Javascript, and React. I love the challenge, and I look forward to bringing my skills to a new team, and learning more about the web.",
     "about": "📌 I started my Front End Engineer journey 11 months ago learning HTML, CSS, JavaScript, and React. I have completed a handful of online certificates from Codecademy and TreeHouse that have expanded my knowledge using programs such as Figma, Storybook, and Insomnia. I am obsessed with Chrome DevTools.<br><br> 📌 Additionally, prior to starting my tech adventure, I worked in retail store management for about 10 years. My goal was to provide the best experience possible to each and every customer. I strived to exceed expectations and improve the customer experience while continuing to lead a team and complete projects with proficient time management.<br><br> 📌 My passion is providing excellent customer service and helping clients excel in their fields. I am a quick learner with a fun, outgoing personality. In addition, I transcend in the ability to work under pressure and handle stressful situations very well.",
     "website": "https://www.chelseygowac.com",
     "skills": [
@@ -20,6 +20,11 @@
             "src": "/logos/tailwind.svg",
             "name": "Tailwind",
             "link": "https://tailwindcss.com/"
+        },
+        {
+            "src": "/logos/wordpress.svg",
+            "name": "WordPress",
+            "link": "https://wordpress.com/"
         }
     ],
     "projects": [
