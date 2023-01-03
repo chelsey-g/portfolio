@@ -52,6 +52,16 @@
                 "Live": "https://github.com/chelsey-g/spotify-clone"
             },
             "role": "Frontend Developer"
+        },
+        {
+            "name": "WordPress Theme Conversion",
+            "image": "/theessexgroup.png",
+            "about": "I helped a customer convert their website to WordPress, managing the process from start to finish and ensuring a smooth and successful transition. The end result was a fully-functional and improved website on the WordPress platform.",
+            "tech": ["WordPress", "CSS", "HTML"],
+            "links": {
+                "Live": "https://theessexgroup.com/"
+            },
+            "role": "Frontend Developer"
         }
     ],
     "testimonials": [
